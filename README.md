@@ -1,5 +1,7 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+[![Build Status](https://dev.azure.com/ghaziwadi/GitHub%20Calculator/_apis/build/status/GhaziWadi.calculator?branchName=refs%2Fpull%2F2%2Fmerge)](https://dev.azure.com/ghaziwadi/GitHub%20Calculator/_build/latest?definitionId=22&branchName=refs%2Fpull%2F2%2Fmerge)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
